@@ -112,6 +112,18 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+		.caption p {
+			display: none;
+		}
+		.caption h3, ul {
+			display: none;
+		}
+		.button.small {
+			display: none;
+		}
+		article {
+			display: none;
+		}
 
 /* Type */
 
